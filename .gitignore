@@ -19,7 +19,6 @@ build/
 *.bak
 *.tmp
 *.log
-src/
 beacon/
 AON7410/
 drone_ui/
